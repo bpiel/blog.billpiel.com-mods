@@ -34,9 +34,6 @@ When I fail to write a something that is of interest to anyone, there may be no 
 I'd like to get over that. Another reason to do this.
 
 
-### Not a good writer ### 
-
-
 ### Nothing new ###
 
 Through the web, humanity has birthed a massive and relentless machine that churns out content at an unimaginable rate. It's breadth and depth of coverage is comprehensive. And there are many, many contributors that are much more skilled writers than I will ever be. Short of the mundane details that are very specific to my life, what could I possibly add to this?
