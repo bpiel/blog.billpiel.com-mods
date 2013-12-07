@@ -138,6 +138,17 @@ h3 {
 	margin-top: 2em;
 }
 
+/*** Contextual Header Tweaks */
+#post-title h2{
+	line-height : 2.2em;
+}
+
+.post h3{
+	color : #356;
+}
+/*** END - Contextual Header Tweaks */
+
+
 p {
 	margin-bottom: 1em;
 }
