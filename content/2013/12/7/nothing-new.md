@@ -2,6 +2,7 @@
 Title: Nothing New
 Description: the inaugural post
 Author: Bill Piel
+Date: 2013/12/07
 */
 
 I have a few reasons why I should NOT write a blog.
@@ -10,7 +11,7 @@ I have a few reasons why I should NOT write a blog.
 
 Well, at least, I used to.
 
-Throughout school, I was regularly required to complete creative writing assignments, as you likely were as well. I found this to be pretty terrible. I had nothing I to say and my attempts were always frustratingly awkward. I would start by typing out everything I could possibly have to say about whatever the assigned topic was -- which was likely something I had no interest in. This first effort often went smoothly, with words and ideas coming to me naturally and with ease. But, this trickle of expression would soon dry up. I would assess my work and it would inevitably fall far short of the minimum required page count, typically two. At best, I'd have half a page. At no point had I been deluded about the trauma I would go through to get this damned thing done. Anxiety would set in as I saw painful hours expand out in front of me. The effort before me unimaginable. I see now, of course, that I was exaggerating the whole situation, but that’s really how I felt!
+Throughout school, I was regularly required to complete creative writing assignments, as you likely were as well. I found this to be pretty terrible. I had nothing I wanted to say and my attempts were always frustratingly awkward. I would start by typing out everything I could possibly have to say about whatever the assigned topic was -- which was likely something I had no interest in. This first effort often went smoothly, with words and ideas coming to me naturally and with ease. But, this trickle of expression would soon dry up. I would assess my work and it would inevitably fall far short of the minimum required page count, typically two. At best, I'd have half a page. At no point had I been deluded about the trauma I would go through to get this damned thing done. Anxiety would set in as I saw painful hours expand out in front of me. The effort before me unimaginable. I see now, of course, that I was exaggerating the whole situation, but that’s really how I felt!
 
 The following hours were filled with bouncing back and forth between two activities. One was like writing -- possibly adding an actual new sentence, but more often inserting filler words or phrases like "very", "however" or "that being said" into existing ones. The other was artificial document expansion -- subtle tweaks to margins, font sizes and line spacing that would squeeze my words into filling more space than they otherwise would. Eventually, I would arrive at something that might be mistaken for a completed assignment.
 
